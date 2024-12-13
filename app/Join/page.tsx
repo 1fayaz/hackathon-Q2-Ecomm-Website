@@ -9,7 +9,7 @@ function Join (){
                <Image src='/logo2.svg' width={324} height={17} alt=""></Image>
                <div className="w-[324px] h-[182px] top-[28px] left-[28px]">
                   <p className="w-[231.22px] h-[31px] top-[46px] left-[46.48px] font-[Inter] font-[700] text-[18px] text-center leading-[26px] text-[#1111]">BECOME A NIKE MEMBER</p>
-                  <p className="w-[282.08px] h-[60px] top-[104px] left-[21.06px] font-[Inter] font-[400] text-[14px] text-center leading-[22px] text-[#8d8d8d]">Create your Nike Member profile and get first access to the very best of Nike products, inspiration and community.</p>
+                  <p className="w-[282.08px] h-[60px] top-[104px] left-[21.06px] font-[Inter] font-[400] text-[14px] text-center leading-[22px] text-[#8d8d8d]">Create your Nike Member profile and get first access to the very best of Nike products inspiration and community</p>
 
                </div>
                <div className="w-[324px] h-[561px] top-[210px] left-[28px]">
@@ -34,7 +34,7 @@ function Join (){
                         <div className="w-[324px] h-[40px] rounded-[3px] border-[1px]">
                            <p className="w-[288.2px] h-[19px] top-[10.5px] left-[17px] font-[inter] font-[400] text-[14px] leading-[17px] ">dd/mm/yyyy</p>
                           <p className="w-[78.03px] h-[16px] top-[12px] left-[16px] font-[inter] font-[400] text-[14px] leading-[17px]">Date of Birth</p> 
-                          <p className="w-[301.45px] h-[14px] top-[47px] left-[11.38px] font-[inter] font-[400] text-[14px] leading-[17px] text-center text-[#8d8d8d]">Get a Nike Member Reward every year on your Birthday.</p>
+                          <p className="w-[301.45px] h-[14px] top-[47px] left-[11.38px] font-[inter] font-[400] text-[14px] leading-[17px] text-center text-[#8d8d8d]">Get a Nike Member Reward every year on your Birthday</p>
 
                         </div>
                         <div className="w-[324px] h-[40px] top-[296px] rounded-[3px] border-[1px] bg-[#ffff]">

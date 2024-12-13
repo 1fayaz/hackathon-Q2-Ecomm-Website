@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import Image from "next/image";
 
 function Footer (){
@@ -25,7 +24,7 @@ function Footer (){
                   <p className="w-[43.54px] h-[14px] top-[65px] font-[400] text-[12px] leading-[24px] text-[#7e7e7e]">Delivery</p>
                   <p className="w-[42.23px] h-[14px] top-[96px] font-[400] text-[12px] leading-[28px] text-[#7e7e7e]">Returns</p>
                   <p className="w-[92.25px] h-[14px] top-[127px] font-[400] text-[11px] leading-[28px]  text-[#7e7e7e]">Payment Options</p>
-                  <p className="w-[180.93px] h-[14px] top-[158px] font-[400] text-[11px] leading-[28px] text-[#7e7e7e]">Contact Us On Nike.com Inquiries</p>
+                  <p className="w-[180.93px] h-[14px] top-[158px] font-[400] text-[11px] leading-[28px] text-[#7e7e7e]">Contact Us On Nike com Inquiries</p>
                   <p className="w-[176.95px] h-[14px] top-[189px] font-[400] text-[11px] leading-[28px] text-[#7e7e7e]">Contact Us On All Other Inquiries</p>
                  </div>
 
@@ -55,7 +54,7 @@ function Footer (){
          </div>
             <div className="w-[672px] h-[32px] top-[12px] left-[8px] text-gray-500">
                <p className="w-[200.48px] h-[14px] top-[19px] left-[76.03px] font-[400] text-[11px] leading-[12px]">
-               © 2023 Nike, Inc. All Rights Reserved
+               © 2023 Nike Inc All Rights Reserved
                </p>
                <div className="w-[60.03px] h-[15px] top-[17px] pr-[8.03px] gap-[8px]">
                   <div className="w-[18px] h-[15px]">

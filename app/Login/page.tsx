@@ -33,9 +33,9 @@ function Login (){
                   </div>
                </div>
                <div className="w-[324px] h-[59px] top-[162px]">
-                  <p className="w-[279.31px] h-[30px] top-[4px] left-[22.44px] font-[Helvetica] font-[400] text-[12px] leading-[16px] text-center text-[#8d8d8d]">By logging in, you agree to Nike's <span className=" font-[Helvetica] font-[400] text-[12px] leading-[16px] text-center text-[#8d8d8d] underline underline-offset-2 decoration-solid"> Privacy Policy</span> and Terms of Use.</p>
+                  <p className="w-[279.31px] h-[30px] top-[4px] left-[22.44px] font-[Helvetica] font-[400] text-[12px] leading-[16px] text-center text-[#8d8d8d]">By logging in you agree to Nike s <span className=" font-[Helvetica] font-[400] text-[12px] leading-[16px] text-center text-[#8d8d8d] underline underline-offset-2 decoration-solid"> Privacy Policy</span> and Terms of Use</p>
                  <p className="w-[139.61px] h-[14px] top-[125px] left-[184.59] text-[#bcbcbc]">
-                 Forgotten your password?
+                 Forgotten your password
                  </p>
                </div>
                <Link href=''>
@@ -45,7 +45,7 @@ function Login (){
                </div>
                </Link>
                <div className="w-[324px] h-[24px] top-[276px]">
-                  <p className="w-[129.61px] h-[14px] top-[10px] left-[97.3px] font-[Helvetica] font-[400] text-[11px] leading-[17px] text-center">Not a Member? <span className="font-[Helvetica] font-[400] text-[11px] leading-[17px] text-center underline underline-offset-2 decoration-solid">Join Us</span>.</p>
+                  <p className="w-[129.61px] h-[14px] top-[10px] left-[97.3px] font-[Helvetica] font-[400] text-[11px] leading-[17px] text-center">Not a Member? <span className="font-[Helvetica] font-[400] text-[11px] leading-[17px] text-center underline underline-offset-2 decoration-solid">Join Us</span></p>
                </div>
             </div>
 

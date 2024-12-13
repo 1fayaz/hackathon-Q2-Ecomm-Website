@@ -80,7 +80,7 @@ function Header() {
             </div>
             <div className="w-[323.53px] h-[24px] top-[19px] left-[558.23px] pr-[11.53px] pl-[11px]">
                <div className="w-[301px] h-[24px] font-[400] text-[11px] leading-[24px] text-center">
-               Download the app to access everything Nike. <span className="underline underline-offset-2 font-bold">Get Your Great</span>
+               Download the app to access everything Nike <span className="underline underline-offset-2 font-bold">Get Your Great</span>
                </div>
 
             </div>
